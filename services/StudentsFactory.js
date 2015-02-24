@@ -1,4 +1,4 @@
-studentRoster.factory('StudentFactory', function StudentsFactory() {
+studentRoster.factory('StudentsFactory', function StudentsFactory() {
   var factory = {};
   factory.students =[];
 
